@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMS_Window_App", "MMS_Window_App.csproj", "{0E6F626A-C9FA-45B4-81FE-E9940F6C9585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMS_Test_Unit", "..\MMS_Test_Unit\MMS_Test_Unit.csproj", "{4EA00227-536D-428F-BC6B-B01BC091E135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E6F626A-C9FA-45B4-81FE-E9940F6C9585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6F626A-C9FA-45B4-81FE-E9940F6C9585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6F626A-C9FA-45B4-81FE-E9940F6C9585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6F626A-C9FA-45B4-81FE-E9940F6C9585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA00227-536D-428F-BC6B-B01BC091E135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA00227-536D-428F-BC6B-B01BC091E135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA00227-536D-428F-BC6B-B01BC091E135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA00227-536D-428F-BC6B-B01BC091E135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EBB62BB-F4B4-476E-AECF-CECEEAD234C7}
+	EndGlobalSection
+EndGlobal
